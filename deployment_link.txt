@@ -1,2 +1,2 @@
-Live App URL:
-GitHub Repo URL:
+Live App URL: https://clinic-companion-ng.streamlit.app
+GitHub Repo URL: https://github.com/iykeman95/clinic-companion-ng
